@@ -25,7 +25,7 @@ export default function Escolher() {
                 </div>
             </div>
 
-            <div className=" flex justify-center items-center  ">
+            <div className=" block md:flex justify-center items-center  ">
                 <div className="">
                     <h1 className=" text-black text-4xl">Descubra a Excelência <br></br> Tecnológica com a ADJ Pro!</h1>
                     <p className="text-black pt-3">Na ADJ Pro, a excelência é o nosso compromisso.<br></br> Nossa missão é fornecer soluções tecnológicas <br></br> personalizadas, projetadas sob medida para <br></br> atender às necessidades exclusivas do seu <br></br> negócio.</p>

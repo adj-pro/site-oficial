@@ -8,8 +8,10 @@ export default {
     extend: {
       backgroundImage: {
         'Imagem': "url('./Imagem.png')",
+        'MobileImage': "url('/Mobile_Image.png.png')",
         
       }
+     
   },
   plugins: [],
 }
